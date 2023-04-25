@@ -23,13 +23,7 @@ GRANT CREATE JOB TO USER_ADMIN;
 
 
 
-
-
-
-
-
-
----------CREAR LA TABLA  PERSONA
+----------------------------------------------------CREAR LA TABLA  PERSONA------------------------------------------------------
 CREATE TABLE PERSONA (
     IDPER int  NOT NULL,
     DNIPER char(8)  NOT NULL,
