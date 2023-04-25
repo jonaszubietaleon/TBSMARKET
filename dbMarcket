@@ -353,4 +353,4 @@ select
 from Persona pe left join VENTA ven on ven.IDCLI = pe.IDPER
 WHERE pe.tipper= 'C' and ven.IDVEN is NULL;
 
-Listar los PRODUCTOS que no figuren en los detalles de venta.
+
